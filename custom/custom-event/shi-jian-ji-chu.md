@@ -40,4 +40,4 @@ description: 愿...
 
 ## 编写事件逻辑
 
-请参考 [luo-ji](../luo-ji/ "mention") 部分
+请参考 [luo-ji](../../he-xin-nei-rong/luo-ji/ "mention") 部分
